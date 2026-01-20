@@ -61,7 +61,7 @@ static const std::string board_names[] =
     "MSI B850M GAMING PLUS WIFI (MS-7E66)",
     "MSI PRO X870E-P WIFI (MS-7E70)",
     "MSI MPG X870I EDGE TI EVO WIFI (MS-7E50)",
-    "MSI B850 GAMING PLUS WIFI (MS-7E56)",
+    "B850 GAMING PLUS WIFI (MS-7E56)",
 };
 
 static const mystic_light_761_config board_configs[] =
